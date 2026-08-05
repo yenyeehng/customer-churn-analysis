@@ -39,21 +39,22 @@ This analysis approaches churn as a **business problem, not just a modeling exer
 - Matplotlib - visualization
 
 ## Repository Structure 
+```
 customer-churn-analysis/
-
+│
 ├── README.md
-
 ├── data/
-│ └── (download dataset here — see Data Source below)
+│   └── (download dataset here — see Data Source below)
 ├── telco-customer-churn.ipynb
-└── outputs/  
-├── customer_churn_scores.csv
-├── churn_by_contract.png
-├── churn_by_tenure.png
-├── churn_by_charges.png
-├── churn_by_services.png
-├── feature_importance.png
-└── roc_curve.png
+└── outputs/
+    ├── customer_churn_scores.csv
+    ├── churn_by_contract.png
+    ├── churn_by_tenure.png
+    ├── churn_by_charges.png
+    ├── churn_by_services.png
+    ├── feature_importance.png
+    └── roc_curve.png
+```
 
 ## Data Source 
 IBM Sample Dataset - Telco Customer Churn 
