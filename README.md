@@ -46,7 +46,7 @@ customer-churn-analysis/
 ├── data/
 │ └── (download dataset here — see Data Source below)
 ├── telco-customer-churn.ipynb
-└── outputs/
+└── outputs/  
 ├── customer_churn_scores.csv
 ├── churn_by_contract.png
 ├── churn_by_tenure.png
