@@ -39,8 +39,10 @@ This analysis approaches churn as a **business problem, not just a modeling exer
 - Matplotlib - visualization
 
 ## Repository Structure 
-customer-churn-analysis/.
-├── README.md. 
+customer-churn-analysis/
+
+├── README.md
+
 ├── data/
 │ └── (download dataset here — see Data Source below)
 ├── telco-customer-churn.ipynb
